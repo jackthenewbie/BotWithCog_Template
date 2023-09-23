@@ -6,8 +6,6 @@ services:
     build:
       dockerfile: Dockerfile
       context: .
-    env_file:
-      - .env
     restart: unless-stopped
     volumes:
-      - ".:/usr/src/"
+      - ./bot:/usr/src/bot
