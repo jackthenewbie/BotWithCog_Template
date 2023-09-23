@@ -1,34 +1,34 @@
 <div align="center" id="top"> 
-  <img src="./app.gif" alt="Botwithcogs" />
+  <img src="./app.gif" alt="BotWithCog_Template" />
 
   &#xa0;
 
-  <!-- <a href="https://botwithcogs.netlify.app">Demo</a> -->
+  <!-- <a href="https://BotWithCog_Template.netlify.app">Demo</a> -->
 </div>
 
 
-<h1 align="center">Botwithcogs</h1>
+<h1 align="center">BotWithCog_Template</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jackthenewbie/botwithcogs?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jackthenewbie/BotWithCog_Template?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jackthenewbie/botwithcogs?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jackthenewbie/BotWithCog_Template?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jackthenewbie/botwithcogs?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jackthenewbie/BotWithCog_Template?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/jackthenewbie/botwithcogs?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/jackthenewbie/BotWithCog_Template?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/jackthenewbie/botwithcogs?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/jackthenewbie/BotWithCog_Template?color=56BEB8" />
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/jackthenewbie/botwithcogs?color=56BEB8" /> -->
+  <img alt="Github forks" src="https://img.shields.io/github/forks/jackthenewbie/BotWithCog_Template?color=56BEB8" />
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/jackthenewbie/botwithcogs?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/jackthenewbie/BotWithCog_Template?color=56BEB8" />
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Botwithcogs 🚀 Under construction...  🚧
+	🚧  BotWithCog_Template 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -72,10 +72,10 @@ The following tools were used in this project:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/jackthenewbie/botwithcogs
+$ git clone https://github.com/jackthenewbie/BotWithCog_Template
 
 # Access
-$ cd botwithcogs
+$ cd BotWithCog_Template
 
 # Install dependencies, prioritize pip3 
 $ pip3 install -r requirements.txt
