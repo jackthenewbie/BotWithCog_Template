@@ -66,6 +66,7 @@ The following tools were used in this project:
 
 - Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Python](https://www.python.org) installed.
 - Change file ``example.token.json`` to ``token.json``
+- Update ``DISCORD_TOKEN`` in ``token.json``
 
 ## :checkered_flag: Starting locally ##
 
